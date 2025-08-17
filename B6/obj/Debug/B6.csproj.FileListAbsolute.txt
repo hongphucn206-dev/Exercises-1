@@ -1,0 +1,7 @@
+C:\Users\ADMIN\source\repos\B6\bin\Debug\B6.exe.config
+C:\Users\ADMIN\source\repos\B6\bin\Debug\B6.exe
+C:\Users\ADMIN\source\repos\B6\bin\Debug\B6.pdb
+C:\Users\ADMIN\source\repos\B6\obj\Debug\B6.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\B6\obj\Debug\B6.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\B6\obj\Debug\B6.exe
+C:\Users\ADMIN\source\repos\B6\obj\Debug\B6.pdb
