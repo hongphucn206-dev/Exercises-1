@@ -1,7 +1,0 @@
-C:\Users\ADMIN\source\repos\B7\bin\Debug\B7.exe.config
-C:\Users\ADMIN\source\repos\B7\bin\Debug\B7.exe
-C:\Users\ADMIN\source\repos\B7\bin\Debug\B7.pdb
-C:\Users\ADMIN\source\repos\B7\obj\Debug\B7.csproj.AssemblyReference.cache
-C:\Users\ADMIN\source\repos\B7\obj\Debug\B7.csproj.CoreCompileInputs.cache
-C:\Users\ADMIN\source\repos\B7\obj\Debug\B7.exe
-C:\Users\ADMIN\source\repos\B7\obj\Debug\B7.pdb
