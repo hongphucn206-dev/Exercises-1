@@ -1,0 +1,7 @@
+C:\Users\ADMIN\source\repos\B9\bin\Debug\B9.exe.config
+C:\Users\ADMIN\source\repos\B9\bin\Debug\B9.exe
+C:\Users\ADMIN\source\repos\B9\bin\Debug\B9.pdb
+C:\Users\ADMIN\source\repos\B9\obj\Debug\B9.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\B9\obj\Debug\B9.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\B9\obj\Debug\B9.exe
+C:\Users\ADMIN\source\repos\B9\obj\Debug\B9.pdb
