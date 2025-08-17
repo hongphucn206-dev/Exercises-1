@@ -1,0 +1,7 @@
+C:\Users\ADMIN\source\repos\B10\bin\Debug\B10.exe.config
+C:\Users\ADMIN\source\repos\B10\bin\Debug\B10.exe
+C:\Users\ADMIN\source\repos\B10\bin\Debug\B10.pdb
+C:\Users\ADMIN\source\repos\B10\obj\Debug\B10.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\B10\obj\Debug\B10.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\B10\obj\Debug\B10.exe
+C:\Users\ADMIN\source\repos\B10\obj\Debug\B10.pdb
